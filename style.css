@@ -1,0 +1,261 @@
+*{
+    margin:0;
+    
+    padding:0;
+    
+}
+
+body{
+    width:1vw;
+}
+
+
+
+.containernavbar{
+    display:flex; 
+     
+}
+.menu img{
+    width: 25px;
+    height: 25px;
+    position: relative;bottom:-10px;left: 25px;  
+     
+    
+}
+.youtubelogo img{
+    width: 120px;
+    height: 60px;
+    position: relative;top:-7px;left: 35px;
+}
+.search input{
+    width: 560px;
+    height: 30px;
+    position: relative;top: 7px;left: 300px;
+    border-radius: 15px;
+    border-color: grey;
+    border-style: solid;
+}
+.search input :hover{
+    border-color: royalblue;
+}
+.searchbutton img{
+    position: relative; top: 9px; left: 250px;
+    width: 25px;
+    height: 25px;
+}
+.voice img{
+    position: relative;top: 10px; left: 290px;
+}
+.videologo img{
+    height: 26px;
+    width: 26px;
+    position: relative; top: 10px; left: 580px;
+}
+.bellbutton img{
+    width: 29px;
+    height: 29px;
+    position: relative; top: 7px; left: 610px;
+
+}
+.gmaillogo img{
+    width: 31px;
+    height: 31px;
+    position: relative; top: 7px; left: 630px;
+}
+.containersidebar{
+    position: relative;bottom: 0px;left: 16px;
+    width: 200px;
+
+}
+.one{
+    width: 200px;
+    display: flex;
+    margin-bottom: 7px;
+}
+.sidetext{
+    margin-top: 11px;
+}
+.one img{
+    width: 45px;
+    height: 40px;
+    
+    
+}
+
+.hr{
+    width: 210px;
+    margin-bottom: 10px;
+    position: relative;right: 15px;
+    color: rgb(149, 142, 142);
+}
+.subscriptions{
+    margin-top: 2px;
+    margin-left: 14px;
+   font-style: unset;
+   font-size: large;
+}
+.channels{
+    width: 1px;
+    height: 1px;
+    margin-left: 3px;
+    
+}
+.channelname{
+    margin-top: 13px;
+    margin-left: 15px;
+}
+.showmore{
+    margin-bottom: 25px;
+    margin-left: 4px;
+    position: relative; top: 6px;
+
+}
+#youtubekids{
+    width: 53px;
+    position: relative; right: 3px;
+}
+.sidetext1{
+    position: relative; right: 7px; top: 10px;
+}
+.subscriptions1{
+    position: relative;left:7px ;
+}
+#grey{
+    color: grey;
+}
+#greysmall{
+    color: grey;
+    font-size: smaller;
+}
+.containersuggestions{
+    position: relative;top:-1933px;left:240px;
+    display: flex;
+    
+}
+.containersuggestions div{
+   margin-left: 18px;
+        
+    
+}
+#a{
+    width: 90px;
+    height: 25px;
+    border-radius: 7px;
+    border-color: grey;
+    border-style: hidden;
+}
+.two button{
+    height: 25px;
+    width: 35px;
+    border-radius: 7px;
+    border-color: grey;
+    border-style: hidden;
+}
+.thumbnailcontainer1{
+    display: flex;
+    position: relative; top: -1760px;left: 240px;
+
+    
+}
+.thumbnails img{
+    width: 402px;
+
+}
+.thumbnailcontainer1 div{
+    margin-left: 15px;
+}
+.thumbnails p{
+    position: relative;left: 10px;
+    font-size: large;
+}
+
+#singers{
+    font-size: medium;
+    position: relative;right: 15px;
+    color: grey;
+}
+.thumbnailcontainer2{
+    display: flex;
+    position: relative; top: -1735px;left: 240px;
+
+}
+.thumbnailcontainer2 div{
+    margin-left: 15px;
+}
+.fullhr{
+    width:1265px;
+    position: relative;left:250px;bottom:1700px;
+    border: none;
+    border-radius: 18;
+    height: 4px;
+    background-color: rgb(226, 220, 220);
+}
+.shortvideos{
+    display: flex;
+    position: relative;left: 250px;bottom: 1680px;
+    width: 55px;
+    height: 40px;
+}
+.shortvideos p{
+ position: relative;left: 37px;bottom:26px;
+ font-size: large;
+}
+.notintrested{
+    position: relative;left: 1185px;
+    
+}
+.shortreels{
+    display: flex;
+    position: relative; top: -1660px;left: 240px;
+
+}
+.reels img{
+    width: 200px;
+}
+.shortreels div{
+    margin: 6px;
+}
+.reels p{
+    padding-left: 8px;
+    font-style: unset;
+}
+#p1{
+    color: grey;
+    font-size: smaller;
+}
+.fullhr1{
+    width:1265px;
+    position: relative;left:250px;bottom:1630px;
+    border: none;
+    border-radius: 18;
+    height: 4px;
+    background-color: rgb(226, 220, 220);
+}
+.thumbnailcontainer3{
+    display: flex;
+    position: relative; top: -1735px;left: 220px;
+    
+}
+.thumbnailcontainer3 div{
+    margin-top: 150px;
+    padding-left: 25px;
+}
+.thumbnailcontainer4{
+    display: flex;
+    position: relative; top: -1865px;left: 220px;
+}
+.thumbnailcontainer4 div{
+    margin-top: 150px;
+    padding-left: 25px;
+}
+.thumbnailcontainer5{
+    display: flex;
+    position: relative; top: -1985px;left: 220px;
+}
+.thumbnailcontainer5 div{
+    margin-top: 150px;
+    padding-left: 25px;
+}
+img,button,p:hover{
+    cursor: pointer;
+}
